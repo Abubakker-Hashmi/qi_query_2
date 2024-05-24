@@ -7,3 +7,4 @@ Sentence Transformers == 2.7.0
 Elasticsearch == 8.13.1
 PyMySQL ==  1.4.6
 mysql ==  8.0.32
+python == 3.10
