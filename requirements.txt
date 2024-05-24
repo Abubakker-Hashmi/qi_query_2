@@ -3,7 +3,7 @@ Werkzeug==2.2.2
 NumPy == 1.26.4
 SQLAlchemy == 2.0.30        
 Pandas == 2.2.2
-Sentence == Transformers 2.7.0
-Elasticsearch == (8, 13, 1)
+Sentence Transformers == 2.7.0
+Elasticsearch == 8.13.1
 PyMySQL ==  1.4.6
 mysql ==  8.0.32
